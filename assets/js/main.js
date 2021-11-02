@@ -96,11 +96,6 @@
 	// Main Sections: Two.
 
 
-
-
-
-
-
 			$window.on('load', function() {
 
 				$('#six').poptrox({

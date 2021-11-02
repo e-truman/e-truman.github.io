@@ -3003,7 +3003,7 @@ input, select, textarea {
 /* Touch */
 
 	body.is-touch .image.thumb:before {
-		opacity: 0.5 !important;
+		opacity: 0.1 !important;
 	}
 
 	body.is-touch .image.thumb:after {
